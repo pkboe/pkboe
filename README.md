@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 # 💫About Me :
 💻 Associate DevOps Engineer [NeebalTech](https://www.neebal.com/)  
@@ -6,7 +6,7 @@
 💬 Talk Automation, Chaos Engineering and DevOps with me!  
 ⚡ Fun Fact! A New Release For Linux Only Takes 8 Weeks!  
 
-## 🌐Socials
+# 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pranilkharche) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranlikharche) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/pranilkharche) 
 
 # 💻Tech Stack
