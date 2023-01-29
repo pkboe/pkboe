@@ -6,6 +6,8 @@
 💬 Talk Automation, Chaos Engineering and DevOps with me!  
 ⚡ Fun Fact! A New Release For Linux Only Takes 8 Weeks!  
 
+[![](https://visitcount.itsvg.in/api?id=pkboe&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+
 # 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pranilkharche) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranlikharche) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/pranilkharche) 
 
@@ -23,4 +25,3 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pkboe&icon=0&color=1)](https://visitcount.itsvg.in)
