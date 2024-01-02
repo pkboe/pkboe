@@ -1,8 +1,8 @@
 # Hi there 👋
 
 # 💫About Me :
-💻 Associate DevOps Engineer [NeebalTech](https://www.neebal.com/)  
-🌱 I’m currently learning Terraform And Kubernetes  
+💻 DevOps Engineer [NeebalTech](https://www.neebal.com/)  
+🌱 I’m exploring more about Terraform, Kubernetes and Ansible  
 💬 Talk Automation, Chaos Engineering and DevOps with me!  
 ⚡ Fun Fact! A New Release For Linux Only Takes 8 Weeks!  
 
